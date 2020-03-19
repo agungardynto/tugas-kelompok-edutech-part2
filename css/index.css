@@ -1,0 +1,193 @@
+.content h2 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.mt-5xx {
+    margin-top: 150px;
+}
+
+.mt-4xx {
+    margin-top: 75px;
+}
+
+.carousel h1 {
+    font-family: 'Monoton', cursive;
+}
+
+.index_carousel .carousel-item {
+    height: 500px;
+}
+
+.index_carousel .carousel-item:first-child {
+    background-image: url('../img/index_carousel.jpg') !important;
+    background-size: cover !important;
+}
+
+.index_carousel .carousel-item:nth-child(2) {
+    background-image: url('../img/index_carousel2.jpg') !important;
+    background-size: cover !important;
+}
+
+.index_carousel .carousel-item:last-child {
+    background-image: url('../img/index_carousel3.jpg') !important;
+    background-size: cover !important;
+}
+
+.index_carousel h1 {
+    font-size: 5vw;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.btn-outline-warning {
+    border: 2px solid #ffa323 !important;
+    border-radius: 0;
+    background-color: #ffa323 !important;
+    color: #fff !important;
+}
+
+.btn-outline-warning:hover {
+    border: 2px solid #ffa323 !important;
+    background-color: transparent !important;
+}
+
+.btn-outline-info {
+    border: 2px solid #fff !important;
+    border-radius: 0;
+    background-color: transparent !important;
+    color: #fff !important;
+}
+
+.btn-outline-info:hover {
+    border: 2px solid #fff !important;
+    background-color: #fff !important;
+    color: #ffa323 !important;
+}
+
+.about p {
+    font-size: 17px;
+    line-height: 30px;
+    color: #6c757d;
+}
+
+.jumbotron.about {
+    background-image: url('../img/parallax-bg.jpg') !important;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.jumbotron.about h5 {
+    padding-top: 50px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.jumbotron.about p {
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.jumbotron {
+    margin-bottom: 0 !important;
+}
+
+.rounded-circle.icon {
+    background-color: #000 !important;
+    width: 130px !important;
+    height: 130px !important;
+    display: flex;
+}
+
+.services svg {
+    width: 50px !important;
+    height: 50px !important;
+    color: #fff !important;
+    margin: auto;
+}
+
+.services h6 {
+    font-size: 24px;
+}
+
+.services p {
+    font-size: 17px;
+    line-height: 2;
+}
+
+.menus h3 {
+    font: 30px;
+    font-weight: 700;
+}
+
+.menus a {
+    color: #000 !important;
+}
+
+.menus a:hover {
+    text-decoration: none;
+}
+
+.menus a:hover .card {
+    background-color: #ffa323 !important;
+}
+
+.card {
+    padding-left: 20px;
+    width: 95%;
+    transition: all .3s ease;
+}
+
+.card .no-gutters img {
+    width: 100px;
+    height: 100px;
+}
+
+.card .no-gutters .card-title {
+    font-size: 24px !important;
+}
+
+.card .no-gutters .card-text {
+    font-size: 17px !important;
+}
+
+.card.chef {
+    padding: 0;
+}
+
+.card.chef svg {
+    width: 18px !important;
+    height: 18px !important;
+    color: #ffa323 !important;
+}
+
+.footer h5 {
+    font-weight: 700;
+}
+
+.footer ul {
+    list-style: none;
+}
+
+.footer .time {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+}
+
+.row.instagram {
+    display: flex !important;
+}
+
+.instagram .img {
+    width: 80px !important;
+    height: 70px !important;
+}
+
+.jumbotron.footer {
+    background-color: #000;
+    color: #fff;
+}
