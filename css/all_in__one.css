@@ -5,16 +5,25 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.test {
+    height: 2000px;
+}
+
 /* HEAD FIX */
 .head__small {
     font-size: 14px;
     padding: 10px 0;
     background-color: #000;
     color: white;
+    position: relative;
 }
 
 .head__small span {
     margin-left: 10px;
+}
+
+.navbar {
+    width: 100%;
 }
 
 .navbar-brand {
