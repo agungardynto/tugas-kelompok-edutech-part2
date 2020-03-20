@@ -1,0 +1,50 @@
+.container h1{
+ text-align: center;
+ position: relative;
+ color: #FFFFFF;
+ font-family: Poppins;
+ font-size:50px ;
+}
+
+.container li{
+    text-align: center;
+}
+
+
+.bawah{
+    background-color: black;
+    margin-top: 100px;
+}
+.bawah h5{ 
+    color: blanchedalmond;
+    margin-top: 50px;
+}
+
+.bawah p{
+    color: rgba(255, 255, 255, 0.7);
+    font-family: poppins;
+    
+}
+
+.bawah h6{
+    color: rgba(255, 255, 255, 0.7);
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.bawah button{
+    width: 250px;
+    height: 50px;
+    background-color: #FFA323;
+    padding: 6px 12px;
+    margin: 0px 0px 8px;
+}
+
+.bawah input{
+    width: 250px;
+    height: 50px;
+    background-color: rgba(255, 255, 255, 0.1);
+    text-align: center;
+    padding: 6px 12px;
+    margin: 0px 0px 8px;
+}
